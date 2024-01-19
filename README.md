@@ -1,6 +1,3 @@
-Certainly! Your GitHub README is a great place to provide an overview of your project. Here's a template you can use:
-
-markdown
 # Menu Card Python Project
 
 This Python project is a dynamic menu card system developed using Object-Oriented Programming (OOP) concepts.
@@ -13,11 +10,7 @@ This Python project is a dynamic menu card system developed using Object-Oriente
 
 ## Getting Started
 
-1. Clone the repository:
-  
-   
-
-2. Run the main script:
+. Run the main script:
    bash
    python main.py
    
